@@ -10,7 +10,7 @@
 
 | 對稱加密 | 其他               | 非對稱加密/Hash | 編碼                                                         | 古典密碼      | 代碼混淆加密            |
 | -------- | ------------------ | --------------- | ------------------------------------------------------------ | ------------- | ----------------------- |
-| DES      | Rabbit             | RSA             | [Base64](https://github.com/ixiniansec/Cryptography/blob/main/docs/base64.md) | 凱撒密碼      | asp混淆加密             |
+| DES      | Rabbit             | RSA             | [Base64](https://github.com/ixiniansec/Cryptography/blob/main/docs/base64.md) | [凱撒密碼](https://github.com/ixiniansec/Cryptography/blob/main/docs/%E5%87%B1%E6%92%92%E5%AF%86%E7%A2%BC.md)      | asp混淆加密             |
 | AES      | 跳舞的小人         | DSA             | Shellcode                                                    | 柵欄密碼      | php混淆加密             |
 | TEA      | QWE加密            | ECC             | 莫爾斯電碼                                                   | 當鋪密碼      | css/js混淆加密          |
 | RC4/5    | 埃特巴什碼         | MD5             | [ASCII](https://github.com/ixiniansec/Cryptography/blob/main/docs/ASCII.md) | 培根密碼      | VBScript.Encode混淆加密 |
